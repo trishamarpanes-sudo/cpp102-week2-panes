@@ -6,4 +6,4 @@ Activities Completed: Activity 1, Activity 2, Activity 3
 
 
 Short Reflection:
-Creating the algorithm, pseudocode, and flowchart helped me understand how to break a problem into clear, logical steps before coding. It showed that planning the process first makes the program easier to write and debug. Overall, it strengthened my skills in organizing thoughts and translating them into structured instructions.
+Working on the algorithms, pseudocode, and flowcharts deepened my understanding of how logical thinking and structured planning are essential in programming. It taught me to approach problems step by step, visualizing the process before writing any code. This activity enhanced my problem-solving skills and reinforced the importance of clarity and precision in program design.
