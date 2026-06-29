@@ -1,0 +1,32 @@
+Laboratory Activity 1: Add Two Numbers
+BEGIN
+    PROMPT "Enter first number: "
+    INPUT num1
+    PROMPT "Enter second number: "
+    INPUT num2
+    sum ← num1 + num2
+    DISPLAY "The sum is ", sum
+END 
+
+Laboratory Activity 2: Compute the Average of Three Quiz Scores
+BEGIN
+    PROMPT "Enter first quiz score: "
+    INPUT score1
+    PROMPT "Enter second quiz score: "
+    INPUT score2
+    PROMPT "Enter third quiz score: "
+    INPUT score3
+    average ← (score1 + score2 + score3) / 3
+    DISPLAY "The average is ", average
+END
+
+Laboratory Activity 3: Determine if a Number is Even or Odd
+BEGIN
+    PROMPT "Enter a number: "
+    INPUT num
+    IF num MOD 2 = 0 THEN
+        DISPLAY "The number is Even"
+    ELSE
+        DISPLAY "The number is Odd"
+    ENDIF
+END
